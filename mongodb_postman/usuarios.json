@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "60858385cf52a11770f15cf4"
+  },
+  "estado": true,
+  "rol": "User_rol",
+  "nombre": "goldus",
+  "correo": "goldus@gmail.com",
+  "password": "$2a$10$jYqrlzlo26pnH/j3TdHzUu.IMKW.5HjcRo7lwgTQGm44OmeuywlB2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60858391cf52a11770f15cf5"
+  },
+  "estado": true,
+  "rol": "User_rol",
+  "nombre": "goldus2",
+  "correo": "goldus2v2@gmail.com",
+  "password": "$2a$10$gA9DMo.TmAoN78Sm6O03ru0oF3HwL0TYxB7VlDi2VXoGR4G81mMcK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608583c4cf52a11770f15cf6"
+  },
+  "estado": true,
+  "rol": "Admin_rol",
+  "nombre": "goldusAdmin",
+  "correo": "goldusAdmin@gmail.com",
+  "password": "$2a$10$MxDJintBYnPuF0W4G7en1.wYjuRR08e4eoLmvKYN0kvxmQXyJ7Fae",
+  "__v": 0
+}]

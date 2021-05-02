@@ -1,0 +1,147 @@
+[{
+  "_id": {
+    "$oid": "6085f8e491fc8e0e14f390a9"
+  },
+  "estado": true,
+  "usuario": "goldus",
+  "precio": 12,
+  "categoria": "periferico",
+  "disponible": true,
+  "nombre": "mouse",
+  "descripcion": "mouse 1200dpi con rgb",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085fa7a91fc8e0e14f390aa"
+  },
+  "estado": true,
+  "usuario": "goldus",
+  "precio": 12,
+  "categoria": "periferico",
+  "disponible": true,
+  "nombre": "teclado",
+  "descripcion": "teclado mecanico con switch blue outemu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085fa9c91fc8e0e14f390ab"
+  },
+  "estado": true,
+  "usuario": "goldus",
+  "precio": 12,
+  "categoria": "periferico",
+  "disponible": true,
+  "nombre": "streamdeck",
+  "descripcion": "teclas para controlar el stream de 12 comandos programables",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085faf291fc8e0e14f390ac"
+  },
+  "estado": true,
+  "usuario": "goldus",
+  "precio": 12,
+  "categoria": "periferico",
+  "disponible": true,
+  "nombre": "monitor",
+  "descripcion": "monitor 240 hz a 1ms",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085fb1891fc8e0e14f390ad"
+  },
+  "estado": true,
+  "usuario": "goldus",
+  "precio": 12,
+  "categoria": "periferico",
+  "disponible": true,
+  "nombre": "audifonos",
+  "descripcion": "audifonos corsair",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085fb3c91fc8e0e14f390ae"
+  },
+  "estado": true,
+  "usuario": "goldus1",
+  "precio": 12,
+  "categoria": "cosmeticos",
+  "disponible": true,
+  "nombre": "pinta labios",
+  "descripcion": "pinta labios color carmesi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085fb7391fc8e0e14f390af"
+  },
+  "estado": true,
+  "usuario": "goldus1",
+  "precio": 12,
+  "categoria": "cosmeticos",
+  "disponible": true,
+  "nombre": "delineador",
+  "descripcion": "delineador de ojos color negro",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085fbf991fc8e0e14f390b0"
+  },
+  "estado": true,
+  "usuario": "goldus1",
+  "precio": 12,
+  "categoria": "carros",
+  "disponible": true,
+  "nombre": "maseratti levante",
+  "descripcion": "motor v6, 350cv de potencia maxima con una acelecacion de 6 segundos",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085fc5991fc8e0e14f390b1"
+  },
+  "estado": true,
+  "usuario": "goldus1",
+  "precio": 12,
+  "categoria": "carros",
+  "disponible": true,
+  "nombre": "toyota ae86",
+  "descripcion": "motor 4A-GE Redtop, 130 CV de potencia maxima",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085fce891fc8e0e14f390b2"
+  },
+  "estado": true,
+  "usuario": "goldus1",
+  "precio": 12,
+  "categoria": "carros",
+  "disponible": true,
+  "nombre": "ferrari f40",
+  "descripcion": "478 CV de potencia maxima, motor v8 ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6086cc425cfa3c46b872a5cb"
+  },
+  "estado": true,
+  "usuario": "goldusAdmin",
+  "precio": 12,
+  "categoria": "carros",
+  "disponible": true,
+  "nombre": "ferrari f40v2",
+  "descripcion": "600 CV de potencia maxima, motor v8 ",
+  "correo": "goldusAdmin@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6086cd3bbeb6460bd8ca8ec9"
+  },
+  "estado": true,
+  "usuario": "goldusAdmasin",
+  "precio": 12,
+  "categoria": "carros",
+  "disponible": true,
+  "nombre": "ferrari f40asv2",
+  "descripcion": "600 CV de potencia maxasima, motor v8 ",
+  "correo": "goldusAdmin@gmail.com",
+  "__v": 0
+}]

@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6085e820b77ab94c982e7515"
+  },
+  "estado": true,
+  "usuario": "goldus",
+  "nombre": "cosmeticos",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085eb0a5ad7e04224ed9fc7"
+  },
+  "estado": true,
+  "usuario": "goldus1",
+  "nombre": "perifericos",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085eb125ad7e04224ed9fc8"
+  },
+  "estado": true,
+  "usuario": "goldus2",
+  "nombre": "ropa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6085eb1c5ad7e04224ed9fc9"
+  },
+  "estado": true,
+  "usuario": "goldus3",
+  "nombre": "carros",
+  "__v": 0
+}]
